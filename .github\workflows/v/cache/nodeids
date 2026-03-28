@@ -1,0 +1,8 @@
+[
+  "tests/tests_1b.py::test_addition",
+  "tests/tests_1b.py::test_division",
+  "tests/tests_1b.py::test_division_by_zero",
+  "tests/tests_1b.py::test_invalid_operation",
+  "tests/tests_1b.py::test_multiplication",
+  "tests/tests_1b.py::test_subtraction"
+]
